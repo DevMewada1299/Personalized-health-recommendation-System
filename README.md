@@ -24,7 +24,7 @@ A Python application that analyzes personal health data, medical records, and pr
 
 3. Create a `.env` file in the project root with your Gemini API key:
    ```
-   GOOGLE_API_KEY=AIzaSyBVVnY4DriK1R2eEzs1yFqUX-KXVU1LZOU
+   GOOGLE_API_KEY="YOUR API KEY"
    ```
 
 4. Run the application:
