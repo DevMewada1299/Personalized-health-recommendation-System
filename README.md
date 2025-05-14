@@ -63,8 +63,7 @@ Viz	Plotly + Streamlit Charts
 🔑 Setup & Installation
 
 # Clone the repo
-https://github.com/yourusername/health-rag.git
-cd health-rag
+
 
 # Create & activate virtual environment
 python -m venv venv
