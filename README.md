@@ -114,12 +114,6 @@ Run eval_script.py to compute metrics for sample QA pairs.
 
 ⸻
 
-👤 Author
-
-Dev Mewada – MS in AI @ San José State University
-🔗 LinkedIn · 🛠 GitHub
-
-⸻
 
 🧾 License
 
