@@ -130,6 +130,20 @@ DLProject/
 
 📷 Screenshots
 
+<img width="1405" alt="Screenshot 2025-05-14 at 7 04 11 PM" src="https://github.com/user-attachments/assets/97624ed2-511c-496b-a16e-92b2b27996b3" />
+
+<img width="1170" alt="Screenshot 2025-05-14 at 1 00 55 PM" src="https://github.com/user-attachments/assets/28a1c5f4-a7ac-428b-808d-5ab19707b6f0" />
+
+<img width="1111" alt="Screenshot 2025-05-14 at 1 01 27 PM" src="https://github.com/user-attachments/assets/20e02e68-877a-4ebe-a395-81c588874fb1" />
+
+
+<img width="1121" alt="Screenshot 2025-05-14 at 1 04 58 PM" src="https://github.com/user-attachments/assets/343b230f-bf2f-4ba6-8dee-c5136454c7e2" />
+
+
+<img width="1138" alt="Screenshot 2025-05-14 at 1 01 41 PM" src="https://github.com/user-attachments/assets/8adaa5a4-6145-4a5e-ae8a-41c1a6c3f69f" />
+
+
+
 
 ⸻
 
